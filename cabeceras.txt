@@ -1,0 +1,10 @@
+nombre 0
+catastral -1
+industrial -1
+sistemas 0
+electronica -1
+danza 0
+natacion -1
+beisbol -1
+basquet -1
+edad 0
